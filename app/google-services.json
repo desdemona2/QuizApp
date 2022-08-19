@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "259246650605",
+    "firebase_url": "https://quizapp-a013b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizapp-a013b",
+    "storage_bucket": "quizapp-a013b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259246650605:android:9294c192b7369049cec8e4",
+        "android_client_info": {
+          "package_name": "com.redheadhammer.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259246650605-6cq1matgea8489e8drkfv17cfm0u0quu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redheadhammer.quizgame",
+            "certificate_hash": "fc291cc6cf6edb82a61cf1e38f85358e68a54c98"
+          }
+        },
+        {
+          "client_id": "259246650605-dve2kpfb0496i01i42sshc52ej4ntr22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTRBKoPSovVOvCZWobOzyVjS01Qe1vdyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259246650605-dve2kpfb0496i01i42sshc52ej4ntr22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
